@@ -25,3 +25,16 @@ All the inmates of the hospital now roam the park in the dark,waiting in silence
 ![Screenshot (311)](https://user-images.githubusercontent.com/78013524/130344099-9134a372-12f7-4631-a460-768cbe587e58.png)
 ![Screenshot (312)](https://user-images.githubusercontent.com/78013524/130344104-d9d07d79-e6b0-4cf1-8c96-47be0e3db62e.png)
 ![Screenshot (313)](https://user-images.githubusercontent.com/78013524/130344106-5c2c9975-5556-470a-aedb-deb5d5971fc7.png)
+
+## Pickup Items
+### 1. Rifle Ammo
+![ak-clip-png-picture-1299789-ak-clip-png-gun-clip-png-344_379](https://user-images.githubusercontent.com/78013524/130344597-a7229d01-3b08-4c06-827b-5fa4eb68a4a5.png)
+
+The rifle ammo is the only thing that can help you fight back against the undead. Each of these contain a 100 bullets that may prove life saving in the game. It is in the shape of a magazine and can be clearly spotted because it glows with a blinding white light. To see it clearly the size has been enlarged so as to not miss these essentials
+
+### 2.Painkillers
+![download](https://user-images.githubusercontent.com/78013524/130344646-ba510d35-d835-4239-b4ef-9288382cf20a.jpg)
+
+This is like a more Max Payne type concept.These are the life saving drugs that can replenish the health of the player. One pickups fills up the entire healthbar. These pickups are the only way to regain health lost in combat. Because of their importance, they are hard to come by. 
+
+
