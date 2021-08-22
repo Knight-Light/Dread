@@ -22,6 +22,9 @@ Lets Start!
 All the inmates of the hospital now roam the park in the dark,waiting in silence. Due to the mutation, the zombies can hear very clearly and can be easily evaded. Their sight however is another matter entirely. These abominations can see to a large distance and can pursue their target to a fair amount of distance. All in all, it is better to resort to discretion with these creatures.
 
 ## Controls
+![control-freak-not-flexible](https://user-images.githubusercontent.com/78013524/130361507-91aedd59-e0f1-47a3-b134-defe41899557.gif)
+
+Haha ! A controls related joke. Now, then moving on...
 ![Screenshot (311)](https://user-images.githubusercontent.com/78013524/130344099-9134a372-12f7-4631-a460-768cbe587e58.png)
 ![Screenshot (312)](https://user-images.githubusercontent.com/78013524/130344104-d9d07d79-e6b0-4cf1-8c96-47be0e3db62e.png)
 ![Screenshot (313)](https://user-images.githubusercontent.com/78013524/130344106-5c2c9975-5556-470a-aedb-deb5d5971fc7.png)
@@ -35,6 +38,38 @@ The rifle ammo is the only thing that can help you fight back against the undead
 ### 2.Painkillers
 ![download](https://user-images.githubusercontent.com/78013524/130344646-ba510d35-d835-4239-b4ef-9288382cf20a.jpg)
 
-This is like a more Max Payne type concept.These are the life saving drugs that can replenish the health of the player. One pickups fills up the entire healthbar. These pickups are the only way to regain health lost in combat. Because of their importance, they are hard to come by. 
+This is like a more Max Payne type concept.These are the life saving drugs that can replenish the health of the player. One pickups fills up the entire healthbar. 
+Yeah Hard to believe, right?
+
+![giphy (1)](https://user-images.githubusercontent.com/78013524/130361582-0d8f86fa-1065-4c3b-9344-f5ea38908ea4.gif)
+
+These pickups are the only way to regain health lost in combat. Because of their importance, they are hard to come by. 
+
+## Approching the Game
+Now that he basic setting and rules are clear, here is the idea I had in mind while developing the game. As aforementioned, the game is the story of survival of a soldier. It is not a Zombie freak game where there is unlimited ammo. The basic concept is that the player will never have tons of resources and ammunication to gun down every last one of the undead. The aim is only to survive through the humongous and beautifully built map. One thing to note is that the clip size is wasted when reloaded i.e. if you still have bullets left in the magazine and you reload, the ammo in that magazine will be lost. So be wary of when and how to use your gun!
+And clearly, this is the cue for Al Pacino fans who had ambitions to be Scarface to leave the chat! Sorry folks!
+Ciao Adios. as this........
+![giphy](https://user-images.githubusercontent.com/78013524/130361845-93d40890-25e2-49a5-9e63-f5cad0cd53ae.gif)
+
+
+Will definitely not work.
+ The idea is to conserve as much ammo and health as possible and make it through.
+ 
+ ## Word From The Creator
+ Hi Guys! This game definitely took up a lot of time and because if the large map, there might be some bugs that you might face. I sincerely apologise for these.
+ Firstly, there is the crosshair placement. Due to some problem in the Widget Blueprint the crosshair is a bit to the right of the actual muzzle. The rifle's actual aim is t the left and you will be clearly able to see where the bullets go if you turn on the flashlight. For the above issue, i have provided a magazine at the start of the game to test the same.  Also if it is much of an issue, the aim down sight will help you get the aim spot on.
+ 
+ Secondly, the water bodies are deadly for the player in one way or the other. The player will sink to the bottom if he/she choses to go far into the lake.
+ I thank you guys for taking out precious time from your schedule and trying my game. All suggestions are welcome
+ 
+ Best of Luck !!
+ 
+![thumbs-up-robert-downey-jr](https://user-images.githubusercontent.com/78013524/130362485-d243cf0e-199a-4212-b9bb-622d1e7a461f.gif)
+
+
+Peace!
+
+Knight-light out
+ 
 
 
